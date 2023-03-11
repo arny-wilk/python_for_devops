@@ -4,8 +4,13 @@ An environment for Python devops work
 ## Create a project Scaffold
 
 * Create a development environment that is cloud-based
+
+### Colab Notebook,
+
+Create development environment that is cloud-based You can check the link here
+[colab](ttps://github.com/arny-wilk/python_for_devops/blob/main/getting_started_with_python.ipynb)
+
 ### Github Codespaces, 
-### Colab Notebook, 
 ### AWS cloudshell,
 ### AWS Cloud9
 
