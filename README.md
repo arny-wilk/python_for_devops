@@ -8,7 +8,7 @@ An environment for Python devops work
 ### Colab Notebook,
 
 Create development environment that is cloud-based You can check the link here
-[colab]ttps://github.com/arny-wilk/python_for_devops/blob/main/getting_started_with_python.ipynb
+[colab](https://github.com/arny-wilk/python_for_devops/blob/main/getting_started_with_python.ipynb)
 
 ### Github Codespaces, 
 ### AWS cloudshell,
